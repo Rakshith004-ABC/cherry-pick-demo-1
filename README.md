@@ -1,2 +1,2 @@
-# cherry-pick-demo-1
-cherry pick demo re-trail
+# cherry-pick-demo
+This repo is to demonstrate cherry-pick
